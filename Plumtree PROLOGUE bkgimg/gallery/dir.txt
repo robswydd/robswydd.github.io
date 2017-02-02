@@ -1,0 +1,22 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 3C3B-EC7E
+
+ Directory of C:\Users\Rob\Desktop\Development\aaa WEBSITES\PROJECT Plumtree Kennels\Plumtree PROLOGUE\gallery
+
+14/09/2016  12:55    <DIR>          .
+14/09/2016  12:55    <DIR>          ..
+23/06/2016  19:16            11,164 boarding-kennels-oswestry-shropshire-plumtree-boarding-kennels-cattery-boarding-kennels1.jpg
+23/06/2016  19:17             7,800 boarding-kennels-oswestry-shropshire-plumtree-boarding-kennels-cattery-boarding-kennels10.jpg
+23/06/2016  19:16            11,306 boarding-kennels-oswestry-shropshire-plumtree-boarding-kennels-cattery-boarding-kennels6.jpg
+23/06/2016  19:17             9,742 cattery-oswestry-shropshire-plumtree-boarding-kennels-cattery-boarding-kennels11.jpg
+23/06/2016  19:16            19,338 cattery-oswestry-shropshire-plumtree-boarding-kennels-cattery-boarding-kennels2.jpg
+23/06/2016  19:17            13,882 cattery-oswestry-shropshire-plumtree-boarding-kennels-cattery-boarding-kennels7.jpg
+23/06/2016  19:16            13,517 covered-outdoor-runs-oswestry-shropshire-plumtree-boarding-kennels-cattery-boarding-kennels4.jpg
+23/06/2016  19:17            19,606 covered-outdoor-runs-oswestry-shropshire-plumtree-boarding-kennels-cattery-boarding-kennels9.jpg
+14/09/2016  12:55                 0 dir.txt
+23/06/2016  19:17            13,918 heated-kennels-oswestry-shropshire-plumtree-boarding-kennels-cattery-boarding-kennels12.jpg
+23/06/2016  19:16            14,096 heated-kennels-oswestry-shropshire-plumtree-boarding-kennels-cattery-boarding-kennels3.jpg
+23/06/2016  19:17            12,797 heated-kennels-oswestry-shropshire-plumtree-boarding-kennels-cattery-boarding-kennels8.jpg
+23/06/2016  19:16             9,914 individual-care-attention-oswestry-shropshire-plumtree-boarding-kennels-cattery-boarding-kennels5.jpg
+              13 File(s)        157,080 bytes
+               2 Dir(s)  553,722,753,024 bytes free

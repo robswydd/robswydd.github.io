@@ -1,0 +1,103 @@
+	<!-- --------------------------- Portfolio ---------------------------------------------------------------------------------->
+					<section id="portfolio" class="three dark cover">
+						<div class="container">
+
+							<header>
+								<h2>Gallery and portfolio</h2>
+							</header>
+
+							<p>Please browse a selection of our images for an idea of our comfortable, spacious and welcoming kennels and facilities.</p>
+
+							<div class="row">
+								
+								<!-- NEXT SIX IMGS -->
+																<div class="4u 12u$(mobile)">
+									<article class="item">
+										<a href="#" class="image fit"><img src="gallery/boarding-kennels4.jpg" alt="" /></a>
+										<!--header>
+											<h3>Ipsum Feugiat</h3>
+										</header-->
+									</article>
+									<article class="item">
+										<a href="#" class="image fit"><img src="gallery/boarding-kennels9.jpg" alt="" /></a>
+										<!--header>
+											<h3>Rhoncus Semper</h3>
+										</header-->
+									</article>
+								</div>
+								<div class="4u 12u$(mobile)">
+									<article class="item">
+										<a href="#" class="image fit"><img src="gallery/boarding-kennels12.jpg" alt="" /></a>
+										<!--header>
+											<h3>Magna Nullam</h3>
+										</header-->
+									</article>
+									<article class="item">
+										<a href="#" class="image fit"><img src="gallery/boarding-kennels3.jpg" alt="" /></a>
+										<!--header>
+											<h3>Natoque Vitae</h3>
+										</header-->
+									</article>
+								</div>
+								<div class="4u$ 12u$(mobile)">
+									<article class="item">
+										<a href="#" class="image fit"><img src="gallery/boarding-kennels8.jpg" alt="" /></a>
+										<!--header>
+											<h3>Dolor Penatibus</h3>
+										</header-->
+									</article>
+									<article class="item">
+										<a href="#" class="image fit"><img src="gallery/boarding-kennels5.jpg" alt="" /></a>
+										<!--header>
+											<h3>Orci Convallis</h3>
+										</header-->
+									</article>
+								</div>
+								<div class="4u 12u$(mobile)">
+									<article class="item">
+										<a href="#" class="image fit"><img src="gallery/boarding-kennels1.jpg" alt="" /></a>
+										<!--header>
+											<h3>Ipsum Feugiat</h3>
+										</header-->
+									</article>
+									<article class="item">
+										<a href="#" class="image fit"><img src="gallery/boarding-kennels10.jpg" alt="" /></a>
+										<!--header>
+											<h3>Rhoncus Semper</h3>
+										</header-->
+									</article>
+								</div>
+								<div class="4u 12u$(mobile)">
+									<article class="item">
+										<a href="#" class="image fit"><img src="gallery/boarding-kennels6.jpg" alt="" /></a>
+										<!--header>
+											<h3>Magna Nullam</h3>
+										</header-->
+									</article>
+									<article class="item">
+										<a href="#" class="image fit"><img src="gallery/boarding-kennels11.jpg" alt="" /></a>
+										<!--header>
+											<h3>Natoque Vitae</h3>
+										</header-->
+									</article>
+								</div>
+								<div class="4u$ 12u$(mobile)">
+									<article class="item">
+										<a href="#" class="image fit"><img src="gallery/boarding-kennels2.jpg" alt="" /></a>
+										<!--header>
+											<h3>Dolor Penatibus</h3>
+										</header-->
+									</article>
+									<article class="item">
+										<a href="#" class="image fit"><img src="gallery/boarding-kennels7.jpg" alt="" /></a>
+										<!--header>
+											<h3>Orci Convallis</h3>
+										</header-->
+									</article>
+								</div>
+								
+							</div>
+
+						</div>
+					</section>
+
